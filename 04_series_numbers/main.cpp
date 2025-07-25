@@ -9,7 +9,7 @@ int main() {
     int repeat_sum = 0;
     int sum = 0;
 
-    std::cout << "Enter a set of 14 consecutive numbers and one number from the series is repeated:" << std::endl;
+    std::cout << "Enter a set of 15 consecutive numbers and one number from the series is repeated:" << std::endl;
 
     for (int i = 0; i < size; i++) {
         std::cin >> numbers[i];
